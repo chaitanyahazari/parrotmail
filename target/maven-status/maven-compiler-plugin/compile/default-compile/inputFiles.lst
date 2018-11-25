@@ -1,0 +1,7 @@
+/Users/chaitanyahazari/IdeaProjects/emailservice/src/main/java/com/pjm/emailservice/EmailApplication.java
+/Users/chaitanyahazari/IdeaProjects/emailservice/src/main/java/com/pjm/emailservice/EmailService.java
+/Users/chaitanyahazari/IdeaProjects/emailservice/src/main/java/com/pjm/emailservice/handler/aws/EmailRequestHandler.java
+/Users/chaitanyahazari/IdeaProjects/emailservice/src/main/java/com/pjm/emailservice/model/QueueInfoRequest.java
+/Users/chaitanyahazari/IdeaProjects/emailservice/src/main/java/com/pjm/emailservice/EmailFunction.java
+/Users/chaitanyahazari/IdeaProjects/emailservice/src/main/java/com/pjm/emailservice/model/QueueInfoResponse.java
+/Users/chaitanyahazari/IdeaProjects/emailservice/src/main/java/com/pjm/emailservice/request/EmailRequest.java

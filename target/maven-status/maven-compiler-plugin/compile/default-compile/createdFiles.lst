@@ -1,0 +1,7 @@
+com/pjm/emailservice/request/EmailRequest.class
+com/pjm/emailservice/model/QueueInfoResponse.class
+com/pjm/emailservice/EmailApplication.class
+com/pjm/emailservice/model/QueueInfoRequest.class
+com/pjm/emailservice/EmailFunction.class
+com/pjm/emailservice/handler/aws/EmailRequestHandler.class
+com/pjm/emailservice/EmailService.class
