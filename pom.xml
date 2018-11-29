@@ -40,7 +40,6 @@
       <version>1.0.0</version>
       <scope>provided</scope>
     </dependency>
-    <!-- https://mvnrepository.com/artifact/com.amazonaws/aws-java-sdk-lex -->
     <dependency>
       <groupId>com.amazonaws</groupId>
       <artifactId>aws-java-sdk-lex</artifactId>
