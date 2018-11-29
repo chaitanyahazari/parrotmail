@@ -57,7 +57,7 @@ public class EmailService {
 
         try
         {
-            System.out.println("Sending...");
+            System.out.println("After kinesis triggered...");
 
             transport.connect(HOST, PORT, SMTP_USERNAME, SMTP_PASSWORD);
 
